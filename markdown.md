@@ -1,7 +1,7 @@
 # タイトル
 
 # クラス
-BLACK
+NULL
 
 # 手順
 ## 場所
@@ -11,7 +11,7 @@ BLACK
 - 米
 - 水
 + お菓子
-    + ダイナマイト
+    + $\frac{10800}{36}$円まで
 * 食器
     * お箸
     * お皿
@@ -54,7 +54,7 @@ else
 # 説明
 ## 概要
 $2^n$  
-$$\sqrt{25}$$
+$$\sqrt{25} \alpha$$
 ## 特記事項
 ![画像](https://www.azciel.co.jp/wp-content/uploads/2018/08/icon_git.png)
 事故には気を付けること
